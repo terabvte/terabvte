@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Python projects
 - 🌱 I’m currently learning Python, looking to speedrun HTML/CSS/JS soon and get started with Alpine.js
 - 👯 I’m looking to collaborate on easy projects
-- 🤔 I’m looking for help with finding more about the HOWL stack
+- 🤔 I’m looking for help with finding more about the HOWL stack!
 - 💬 Ask me about how my Python learning journey is going :)
 - 📫 How to reach me: <a href="mailto:marcofediuc04@gmail.com">marcofediuc04@gmail.com</a>
 - ⚡ Fun fact: I speak four languages, currently working on my fifth!
