@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working on Javascript fundamentals
 - 🌱 I’m currently learning Javascript
-  - HTML/CSS speedrun successful, after JS derust React's next
-  - Would also love to get started on Java :o
+  - HTML/CSS speedrun successful, after JS derust, React's next
+  - Would also love to get started on C# :o
 - 👯 I’m looking to collaborate on beginner projects
-- 🤔 I’m looking for help in finding more about ML and applications of Java!
+- 🤔 I’m looking for help in finding more about ML and applications of C#!
 - 📫 How to reach me: <a href="mailto:marcofediuc04@gmail.com">marcofediuc04@gmail.com</a>
 - ⚡ Fun fact: I speak four languages, currently working on my fifth!
 
