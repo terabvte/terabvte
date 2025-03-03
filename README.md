@@ -1,7 +1,5 @@
 <h2 align="center">Hi <img src="https://cdn.7tv.app/emote/01J244ERJG000A78Z503AX8PTC/2x.avif" width=40>I'm Marco!</h1>
-<h3 align="center"> WebDev & ML Enthusiast | <a href="https://i.kym-cdn.com/photos/images/newsfeed/002/493/123/a30">Python Developer</a> | CS Student @ <a href="https://www.opit.com/">OPIT</a></h3>
-
-<img width="35%" align="right" alt="GIF" src="https://media1.tenor.com/m/iCgOuohU11kAAAAC/dancing-polish-cow-at4am.gif" />
+<h3 align="center"> WebDev & ML Enthusiast | Python Developer | CS Student @ <a href="https://www.opit.com/">OPIT</a></h3>
 
 - 🔭 I’m currently working on Javascript fundamentals
 - 🌱 I’m currently learning Javascript
