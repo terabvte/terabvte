@@ -9,5 +9,3 @@
   - Next.js
 - 👯 I’m open to collaborate on open source projects
 - 🤔 I’m looking to learn about the world of DevOps and MLOps!
-- 📫 Reach out to me at: <a href="mailto:marcofediuc04@gmail.com">marcofediuc04@gmail.com</a>
-
